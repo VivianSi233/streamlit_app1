@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 
 st.title('我的个人网站 💡')
-st.image('C:/Users/siwei/Downloads/0402_1.jpg', width=200)
 st.write('### 早上好！')
 
 a = 234*9
